@@ -25,7 +25,7 @@ export const networks = {
     chainId: 5,
     explorer: "https://goerli.etherscan.io",
     color: "#f6c343",
-    storage: "0x171a664f12672a61E4e948BC7Fd38eB34b64a15b",
+    storage: "0xAE1c4b9D0196cd840A0c13261815655c73f2061F",
     multicall: "0xFD4e092227e876dD8F2d036FA8fEB23F8A7F94ca",
     ENSRegistry: "0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e",
     fromBlock: 8385000,
@@ -121,3 +121,22 @@ export default {
   chainRouter,
   networks,
 }
+
+/**
+ * 0x57aF17F7937D9fe8E7fD3ac7dDe732f061d8A326
+ * 
+ * 0xD861Cda5c91e46417E769df7036dC69c517e1A8F
+ * 
+ 0x4e7099e11698467bA61DD69D9E12728dF4aC1ff0
+
+ tf
+ 0xefc3732926532aB30fd4F1cb1A8E61fe2a860a86
+
+ idoF
+ 0x2f5AA1DcB22a425de9CB8d8bB2844Bb9613F1616
+
+
+
+ fee token 
+ 0xA9803FF74957221cE838103fce8D76a737Ad5F25
+ */

